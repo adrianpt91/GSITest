@@ -1,0 +1,10 @@
+C:\Users\Adrian\source\repos\Exercise1\bin\Release\netcoreapp2.1\Exercise1.deps.json
+C:\Users\Adrian\source\repos\Exercise1\bin\Release\netcoreapp2.1\Exercise1.runtimeconfig.json
+C:\Users\Adrian\source\repos\Exercise1\bin\Release\netcoreapp2.1\Exercise1.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\Exercise1\bin\Release\netcoreapp2.1\Exercise1.dll
+C:\Users\Adrian\source\repos\Exercise1\bin\Release\netcoreapp2.1\Exercise1.pdb
+C:\Users\Adrian\source\repos\Exercise1\obj\Release\netcoreapp2.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Exercise1\obj\Release\netcoreapp2.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\Exercise1\obj\Release\netcoreapp2.1\Exercise1.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\Exercise1\obj\Release\netcoreapp2.1\Exercise1.dll
+C:\Users\Adrian\source\repos\Exercise1\obj\Release\netcoreapp2.1\Exercise1.pdb
